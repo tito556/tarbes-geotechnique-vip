@@ -1,0 +1,50 @@
+# Geotechnique — Tarbes
+
+> Geotechnical engineering services in Tarbes, France.
+
+## Services
+- [Amelioration Sols](https://tarbes.geotechnique.vip/amelioration-sols/)
+- [Ancrages](https://tarbes.geotechnique.vip/ancrages/)
+- [Cbr Routier](https://tarbes.geotechnique.vip/cbr-routier/)
+- [Chaussee Rigide](https://tarbes.geotechnique.vip/chaussee-rigide/)
+- [Chaussee Souple](https://tarbes.geotechnique.vip/chaussee-souple/)
+- [Colonnes Ballastees](https://tarbes.geotechnique.vip/colonnes-ballastees/)
+- [Densite Cone Sable](https://tarbes.geotechnique.vip/densite-cone-sable/)
+- [Essai Cpt](https://tarbes.geotechnique.vip/essai-cpt/)
+- [Essai Plaque Charge](https://tarbes.geotechnique.vip/essai-plaque-charge/)
+- [Excavations](https://tarbes.geotechnique.vip/excavations/)
+- [Excavations Profondes](https://tarbes.geotechnique.vip/excavations-profondes/)
+- [Fondations](https://tarbes.geotechnique.vip/fondations/)
+- [Geophysique](https://tarbes.geotechnique.vip/geophysique/)
+- [Geotechnique Routiere](https://tarbes.geotechnique.vip/geotechnique-routiere/)
+- [Granulometrie](https://tarbes.geotechnique.vip/granulometrie/)
+- [Injections](https://tarbes.geotechnique.vip/injections/)
+- [Investigation](https://tarbes.geotechnique.vip/investigation/)
+- [Isolation Sismique](https://tarbes.geotechnique.vip/isolation-sismique/)
+- [Labo In Situ](https://tarbes.geotechnique.vip/labo-in-situ/)
+- [Laboratoire](https://tarbes.geotechnique.vip/laboratoire/)
+- [Limites Atterberg](https://tarbes.geotechnique.vip/limites-atterberg/)
+- [Liquefaction](https://tarbes.geotechnique.vip/liquefaction/)
+- [Masw](https://tarbes.geotechnique.vip/masw/)
+- [Microzonage Sismique](https://tarbes.geotechnique.vip/microzonage-sismique/)
+- [Murs Soutenement](https://tarbes.geotechnique.vip/murs-soutenement/)
+- [Pieux](https://tarbes.geotechnique.vip/pieux/)
+- [Puits Inspection](https://tarbes.geotechnique.vip/puits-inspection/)
+- [Radiers](https://tarbes.geotechnique.vip/radiers/)
+- [Refraction Sismique](https://tarbes.geotechnique.vip/refraction-sismique/)
+- [Resistivite](https://tarbes.geotechnique.vip/resistivite/)
+- [Sismique](https://tarbes.geotechnique.vip/sismique/)
+- [Sondages Spt](https://tarbes.geotechnique.vip/sondages-spt/)
+- [Stabilite Talus](https://tarbes.geotechnique.vip/stabilite-talus/)
+- [Surveillance Excavations](https://tarbes.geotechnique.vip/surveillance-excavations/)
+- [Talus](https://tarbes.geotechnique.vip/talus/)
+- [Triaxial](https://tarbes.geotechnique.vip/triaxial/)
+- [Tunnels Sol Mou](https://tarbes.geotechnique.vip/tunnels-sol-mou/)
+- [Vibrocompactage](https://tarbes.geotechnique.vip/vibrocompactage/)
+
+## Contact
+- Website: https://tarbes.geotechnique.vip/
+
+## About
+This site provides geotechnical engineering services in Tarbes, France.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
